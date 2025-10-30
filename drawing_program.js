@@ -1,10 +1,10 @@
 function preload(){
-  imgBlossom = loadImage('/assets/blossom.png');
-  imgStar = loadImage('/assets/star.png');
-  imgApple = loadImage('/assets/apple.png');
-  imgSwirl = loadImage('/assets/swirl.png');
-  imgAirbrush = loadImage('/assets/airbrush.png');
-  imgHouse = loadImage('/assets/house.png');
+  imgBlossom = loadImage('assets/blossom.png');
+  imgStar = loadImage('assets/star.png');
+  imgApple = loadImage('assets/apple.png');
+  imgSwirl = loadImage('assets/swirl.png');
+  imgAirbrush = loadImage('assets/airbrush.png');
+  imgHouse = loadImage('assets/house.png');
 }
 
 function setup() {
